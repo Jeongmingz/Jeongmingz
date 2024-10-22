@@ -2,11 +2,27 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongmingz&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%E2%9C%A8&edge_flat=true)](https://hits.seeyoufarm.com)
 
-#### TECH STACK
-![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![mongodb](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white) ![nextdotjs](https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![pytorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+#### MY TECH STACKS
+---
+![My Skills](https://skillicons.dev/icons?i=ts,react,django,docker,mongodb,mysql,nextjs,nginx)
 
-#### CLOUD SERVICE
-![amazonwebservices](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![amazons3](https://img.shields.io/badge/Amazon%20s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white) ![amazonrds](https://img.shields.io/badge/Amazon%20rds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white) ![amazonroute53](https://img.shields.io/badge/Amazon%20route53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white) ![amazonroute53](https://img.shields.io/badge/Amazon%20ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+
+
+##### Language
+![Language](https://skillicons.dev/icons?i=python,java,)
+
+
+
+##### Cloud Services
+![Cloud Services](https://skillicons.dev/icons?i=aws,gcp)
 
 #### USEABLE TOOLS
-![notion](https://img.shields.io/badge/notion-000?style=for-the-badge&logo=notion&logoColor=white) ![figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![slack](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+---
+![My Skills](https://skillicons.dev/icons?i=notion,figma,git,github,postman)
+
+#### PROJECTS
+---
+1. [딥러닝을 활용한 주차장 혼잡 분석 및 주차 지원 서비스 - 주차 대학교, 차대](https://github.com/univ-parking/UnivParking) (2023년 10월 - 🥈은상)
+2. [LLM 인공지능을 이용한 제주도 여행지 추천 시스템 - 북두칠성, 제주시를 빛나게](https://www.figma.com/design/XQzDoqB6x3wlxTprGOwS5J/%EB%B6%81%EB%91%90%EC%B9%A0%EC%84%B1?node-id=0-1&t=I9t0kgK1rsnRwWy6-1) (2023년 12월 - 🥇대상)
+3. [우리들의 공부 집합소, 공집합](https://www.gongziphap.com/) (2023년 03월 ~ 2024년 9월)
+4. [팝업스토어의 온라인화 - 팝업은 현재 진행중! 팝핑](https://popping.world/) (2024년 8월 ~ 2024년 9월)
