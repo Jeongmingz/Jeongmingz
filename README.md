@@ -34,13 +34,18 @@ GITHUB@Jeongmingz > cat JeongminLee.about
 #### PROJECTS
 ---
 1. [딥러닝을 활용한 주차장 혼잡 분석 및 주차 지원 서비스 - 주차 대학교, 차대](https://github.com/univ-parking/UnivParking) (2023년 10월 - 🥈은상)
+ > 팀장, UI/UX, Backend, PT, 홍보물 제작
 2. [LLM 인공지능을 이용한 제주도 여행지 추천 시스템 - 북두칠성, 제주시를 빛나게](https://www.figma.com/design/XQzDoqB6x3wlxTprGOwS5J/%EB%B6%81%EB%91%90%EC%B9%A0%EC%84%B1?node-id=0-1&t=I9t0kgK1rsnRwWy6-1) (2023년 12월 - 🥇대상)
+ > 어플리케이션 UI/UX 담당, PPT, 데이터 전처리 및 데이터 시각화, LLM
 3. [우리들의 공부 집합소, 공집합](https://www.gongziphap.com/) (2023년 03월 ~ 2024년 9월)
+ > Backend, 기획, UI/UX, Tosspayment 연동, 학습단 및 상점단 개발
 4. [팝업스토어의 온라인화 - 팝업은 현재 진행중! 팝핑](https://github.com/popping-official) (2024년 8월 ~ 2024년 9월 - 사이드임팩트 1차통과)
+ > 팀장, UI/UX, Frontend, Backend, 홍보물 제작, 인스타 관리
+
 
 #### Experience
 ---
-1. [교육] K-Digital Training 빅데이터기반 AI알고리즘서비스(추천,트레이딩)개발자 양성과정 
+1. [교육] K-Digital Training 빅데이터기반 AI알고리즘서비스(추천,트레이딩) 개발자 양성과정 
 2. [재능기부] [네이버 지식인(얕은지식) - 초인 등급 상위 5만명 (0.0506%) 이내](https://kin.naver.com/popup/activityCert.nhn?u=Yr21v2RVtPdd38KBgEOnzxerVXCY3rdDyJULzTY9Zhw%3D)
 
 ---
